@@ -17,7 +17,7 @@ const ColorToggle = () => {
           color: theme.colorScheme === 'dark' ? theme.colors.yellow[4] : theme.colors.blue[6],
         })}
       >
-        {colorScheme === 'dark' ? <Sun size={18} /> : <MoonStars size={18} />}
+        {colorScheme === 'dark' ? <Sun size={19} /> : <MoonStars size={19} />}
       </ActionIcon>
     </Group>
   );
