@@ -1,6 +1,6 @@
 # The MongoDB Atlas Data API in the Jamstack: The Serverless Dream!
 
-Live Demo: [https://socialbutterfly.vercel.app/](https://socialbutterfly.vercel.app/)
+Live Demo: [https://social-app-demo-peach.vercel.app/](https://social-app-demo-peach.vercel.app/)
 
 ## Introduction
 
