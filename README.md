@@ -38,7 +38,7 @@ If you don't already have a [Vercel account](https://vercel.com/signup), create 
 - Allowed Logout URLS: `http://localhost:3000, https://*.vercel.app, http://*.vercel.app`
 - Allowed Web Origins: `https://*.vercel.app`
 
----
+--
 
 Great job! Your application is now deployed and you can open it from the **Overview** tab in Vercel or by navigating to your custom Vercel domain.
 
